@@ -1,3 +1,7 @@
+# Wanna quickly check if your system is running normally?
+
+Download the trial version of [3DMark](https://store.steampowered.com/app/223850/3DMark/) on Steam, run the test. and hit compare results online at the end screen. Look at the graph, if you're in the middle or near it, you're good to go!
+
 # Tools
 
 ---
